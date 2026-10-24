@@ -1,0 +1,6 @@
+{
+  "name": "Mirchi 360 | Premium Delivery",
+  "description": "Mirchi 360 - Premium dark-mode crispy fried specialties, signature buckets, crowd-pleasing bundles, live order tracking, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
